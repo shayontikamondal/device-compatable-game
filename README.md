@@ -1,1 +1,1 @@
-# device-compatable-game
+# C18-device-compatible-game
